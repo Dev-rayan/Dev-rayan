@@ -7,4 +7,4 @@ Vivre à Meknès, avec ses richesses historiques et culturelles(faut pas abuser 
 
 Dans mon parcours, j'aspire à conjuguer mon amour pour la technologie avec les valeurs traditionnelles de modestie et d'humilité,J'aspire à conjuguer tech et modestie. "La patience est amère, mais ses fruits sont doux", proverbe me guidant vers la persévérance et la récompense après l'effort, tout en demeurant humble et respectueux envers les autres, quels que soient mes accomplissements.
 
-                                      """Si vous voulez me suivre rejoigner mon twitter ci-dessus."""
+"""Si vous voulez me suivre rejoigner mon twitter ci-dessus."""
